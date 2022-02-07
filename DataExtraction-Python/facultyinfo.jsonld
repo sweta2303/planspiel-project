@@ -1,0 +1,666 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "EducationalOrganization",
+  "member":[
+	{
+		"@type": "Person",
+		"name": "Matthias Werner",
+		"knowsAbout": [ 
+		  "Networking",
+		  "Information Systems",
+		  "Security",
+	      "Mobile Computing"
+		],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Operating Systems"
+		}
+	},
+  	{
+  		"@type": "Person",
+  		"name": "Guido Brunnett",
+		"knowsAbout": "",
+  		"memberOf":{
+  			"@type" : "ProgramMembership",
+  			"name" : "Faculty of Computer Science",
+  			"programName" : "Professorship of Computer Graphics and Visualization"
+  		}
+	},
+	{
+		"@type": "Person",
+		"name": "Fred Hamker",
+		"knowsAbout": "",
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Artificial Intelligence"
+		}
+	},  
+	{
+		"@type": "Person",
+		"name": "Maximilian Eibl",
+		"knowsAbout": [
+		  "Human-Computer Interaction",
+          "Multimeadia Information Retrieval",
+          "Audio Visual Media"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+  	{
+  		"@type": "Person",
+  		"name": "Andy Börner",
+  		"knowsAbout": [
+          "statistics",
+          "Artificial Intelligence",
+          "Data Mining",
+          "Robotics"
+        ],
+  		"memberOf":{
+  			"@type" : "ProgramMembership",
+  			"name" : "Faculty of Computer Science",
+  			"programName" : "Professorship of Media Informatics"
+  		}
+  	},
+	{
+		"@type": "Person",
+		"name": "Thomas Wilhelm-Stein",
+		"knowsAbout": [
+		  "Information Retrieval",
+          "Lucene",
+          "Natural Language Processing",
+          "content Based Image Retrieval",
+          "Text analysis",
+          "Information Science",
+          "Software Engineering"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Maria Costantino",
+		"knowsAbout": "",
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Vera Fink",
+		"knowsAbout": [
+		  "Human-Computer Interaction",
+          "Well-Being",
+          "Ux Designs"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Mira Mariane Freiermuth",
+		"knowsAbout": [
+		  "Philosophy of Science",
+          "Ethics",
+          "Social and Political Philosophy"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Philipp Graf",
+		"knowsAbout": [
+		  "Artificial Intelligence",
+          "Software Engineering",
+          "Control system Engineering"   
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Fanny Gruhl",
+		"knowsAbout": "",
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Stefan Kahl",
+		"knowsAbout": [
+		  "Acoustic Engineering",
+          "Artificial Intelligence",
+          "Computing in Mathematics",
+          "Data Mining",
+          "Natural Science",
+          "Neural Network"
+		],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Albrecht Kurze",
+		"knowsAbout": [
+		  "Cultural Antropology",
+          "Qualitative Social Research",
+          "Social and Political Philosophy"		  
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Stefanie Müller",
+		"knowsAbout": "",
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Michael Storz",
+		"knowsAbout": [
+		  "Human-Computer Interaction",
+          "User Experience",
+          "Design Thiking",
+          "Machine learning",
+          "Artificial Intelligence"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Stefan Taubert",
+		"knowsAbout": [
+		  "Machine learning",
+          "Supervised learning"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Media Informatics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Gudula Rünger",
+		"knowsAbout": [
+		  "Parllel and Distributed Systems",
+          "Scientific Computing",
+          "High Performance Computing",
+          "Super Computing",
+          "GPU programming",
+          "Cluster Computing",
+          "MPI"  
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Practical Computer Science"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Robert Dietze",
+		"knowsAbout": [
+		  "High Performance Computing",
+          "Parllel Computing",
+          "Complex Simulation Applcations" 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Practical Computer Science"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Michael Hofmann",
+		"knowsAbout": [
+		  "Merge technologies",
+          "High Performance Computing and Simulation",
+          "Parllel and Distributed Computing"  
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Practical Computer Science"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Thomas Jakobs",
+		"knowsAbout": [
+		  "Sustainable Computing",
+          "Super Computing",
+          "Computer Science and Information systems",
+          "High Performance computing and Simulation",
+          "Computational Science and Engineering",
+          "Energy Efficiency",
+          "Vectorization" 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Practical Computer Science"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Robert Kiesel",
+		"knowsAbout": [
+		  "Performance Measurement",
+          "Performance analysis",
+          "High Performance Computing",
+          "Energy Efficiency"	  
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Practical Computer Science"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Ronny Kramer",
+		"knowsAbout": [
+		  "Information Systems Architecture and Technology",
+          "Information and Communication Technology",
+          "Parallel and Distributed Network"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Practical Computer Science"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Marcel Richter",
+		"knowsAbout": [
+		  "Super Computing",
+          "High Performance Computing",
+          "Computer Architecture and High Performance Computing",
+          "Computer Aspects of Numerical Algorithms",
+          "High Performance Computing & Simulation"  
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Practical Computer Science"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Alejandro Masrur",
+		"knowsAbout": "",
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Computer Architectures and Systems"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Janet Siegmund",
+		"knowsAbout": "",
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Software Engineering"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Wolfram Hardt",
+		"knowsAbout": "",
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Computer Engineering"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Andreas Goerdt",
+		"knowsAbout": "",
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Theoretical Computer Science"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Hanno Lefmann",
+		"knowsAbout": [
+		  "Combinatorics",
+          "Graph Theory",
+          "Geometry",
+          "Combinatorial Optimization",
+          "Algorithm analysis",
+          "Theoretical Computer Science",
+          "Discreet Mathematics"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Theoretical Computer Science/Information Security"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Martin Gaedke",
+		"knowsAbout": [
+		  "web applications",
+		  "web engineering",
+		  "serive engineering",
+		  "serverless computing",
+		  "human computer Interaction",
+		  "hyper-connected Society",
+		  "web user interfaces",
+		  "collaborative web applications",
+		  "web application development",
+		  "user interface mashups",
+		  "distributed web applications" 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Sebastian Heil",
+		"knowsAbout": [
+		  "web engineering",
+		  "Web Migration",
+		  "Web Of things",
+		  "internet of things",
+		  "human computer Interaction",
+		  "Web Information Systems Engineering",
+		  "web user interfaces" 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Maik Benndorf",
+		"knowsAbout": [
+		  "Robot sensing systems",
+		  "Sensor systems",
+		  "mobile Computing",
+		  "bridges",
+		  "frequency-domain analysis"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Eduard Daoud",
+		"knowsAbout": [
+		  "deep learning",
+		  "Artificial Intelligence",
+		  "Blockchain",
+		  "Knowledge Management",
+		  "Information Management",
+		  "business Process Management"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Christoph Göpfert ",
+		"knowsAbout": [
+		  "linked data",
+		  "Information Management",
+		  "web engineering",
+		  "Intelligent Information Management" 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "André Langer",
+		"knowsAbout": [
+		  "Semantic web",
+		  "linked data",
+		  "webservers",
+		  "Distributed Computer Networks",
+		  "Media Computer Science",
+		  "Mobile Computing",
+		  "Intelligent Information Management",
+		  "Human-Computer Interaction",
+		  "Data Quality Assessment"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Mahda Noura",
+		"knowsAbout": [
+		  "internet of things",
+		  "web of things",
+		  "Knowledge extraction",
+		  "Cellular Networks",
+		  "Semantic web",
+		  "web engineering",
+		  "web technologies"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Andreas Schulz",
+		"knowsAbout": "",
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Valentin Siegert",
+		"knowsAbout": [
+		  "distributed computing",
+		  "WASM",
+		  "Complex Event Processing",
+		  "web Science",
+		  "Distributed systems",
+		  "web servers",
+		  "agile development",
+		  "web engineering"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Ralph Sontag",
+		"knowsAbout": [
+		  "Information- and communication systems",
+		  "Mathematical Computing",
+		  "Applied Mathematics " 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Markus Ullrich",
+		"knowsAbout": [
+		  "Machine learning",
+		  "cloud computing",
+		  "Resource Demand Estimation"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Dang Vu Nguyen Hai",
+		"knowsAbout": [
+		  "Software engineering",
+		  "Software development",
+		  "HTML code programming",
+		  "database programming",
+		  "Solid",
+		  "Relation Database",
+		  "web development",
+		  "Datascience",
+		  "Intelligent Information Management"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Bahareh Zarei",
+		"knowsAbout": [
+		  "Computer Networking",
+		  "Parllel and Distributed Computing",
+		  "Network Security",
+		  "Networking",
+		  "Virtualization technology",
+		  "web service aggregation",
+		  "data as service",
+		  "Big Data"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Professorship of Distributed and Self-organizing Systems"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Danny Kowerko",
+		"knowsAbout": [
+		  "MATLAB",
+		  "Spectroscopy",
+		  "Fluorencence",
+		  "RNA",
+		  "optics",
+		  "experimental physics",
+		  "Applied Mathematics",
+		  "Image Processing",
+		  "Machine learning"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Junior Professorship of Media Computing"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "Tobias Schlosser",
+		"knowsAbout": [
+		  "Computer Vision",
+		  "deep learning",
+		  "Image Processing"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Junior Professorship of Media Computing"
+		}
+	},
+    {
+		"@type": "Person",
+		"name": "René Erler",
+		"knowsAbout": [
+		  "Audio Signal Processing",
+		  "Sound analysis",
+		  "Acoustic Signal Processing",
+		  "Acoustic Engineering",
+		  "Acoustic analysis",
+		  "Digital Signal Processing",
+		  "Music analysis"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Computer Science",
+			"programName" : "Junior Professorship of Media Computing"
+		}
+	}
+
+
+  ]
+
+}
+ </script>

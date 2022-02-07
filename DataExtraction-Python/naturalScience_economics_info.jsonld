@@ -1,0 +1,1011 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "EducationalOrganization",
+  "member":[
+	{
+		"@type": "Person",
+		"name": "Robert Magerle",
+		"knowsAbout": [
+			"Nuclear Solid State Physics",
+			"Materials and Interfaces",
+			"Nonlinear Dynamics",
+			"Atomic Force Microscopy",
+			"Nanotomography",
+			"Polymer Materials"
+			"Thin Films",
+			"Nanobiophysics of Collagen Fibrils", 
+			"Nanobiophysics of Collagen based Tissues",
+			"Nanomechanics of Semi Crystalline Polymers",
+			"Multi Sensory Augmented Reality Displays",
+			"Psychophysics of Human Multisensory Perception and Cognition"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Chemical Physics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Heinrich Lang",
+		"knowsAbout": [
+			"Metal/Metal Oxide Nanoparticles",
+			"Porphyrins and Phthalocyanines Conductive and Magnetic Materials",
+			"Hetero Multimetallic Transition metal Complexes",
+			"Molecular Electronics",
+			"Twin Polymerization",
+			"Synthesis",
+			"Polymers",
+			"Catalyst",
+			"Organometallics",
+			"Coordination Chemistry",
+			"Catalysis",
+			"Cross Coupling",
+			"Homogeneous Catalysis",
+			"Organometallic Chemistry",
+			"Macrocycles",
+			"Transition Metal",
+			"Coordination Complexes",
+			"Transition Metal Complexes",
+			"Amorphous Carbon",
+			"Synthetic Methods",
+			"Organic Chemistry"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Inorganic Chemistry"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Klaus Dieter Stöwe",
+		"knowsAbout": [
+			"Material Synthesis",
+			"Heterogeneous Catalysts",
+			"Chalcogenide Nanoparticles",
+			"Thermoelectrics",
+			"Energy Storage Materials",
+			"High Throughput Technologies"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Chemical Technology"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Michael Mehring",
+		"knowsAbout": [
+			"Synthesis",
+			"Structural Characterisation",
+			"Inorganic and Organometallic Molecular Compounds",
+			"Nanoscaled Metal Oxido Cluster and Metal Oxide Nanoparticles",
+			"Organic and Inorganic Hybrid­ Materials",
+			"Supramolecular Coordination Compounds",
+			"Heterogeneous Photocatalysis",
+			"Porosity of Metal Oxides",
+			"Energy Storage",
+			"Energy Transformation",
+			"Properties of Hybrid Materials",
+			"Main Group Metal Chemistry",
+			"Materials Chemistry",
+			"Photocatalysis"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Chemical Coordination"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Marc Armbrüster",
+		"knowsAbout": [
+			"Chemical Kinetics",
+			"Inorganic Chemistry",
+			"Materials Chemistry",
+			"Heterogeneous Catalysis",
+			"Intermetallic compounds",
+			"Catalyst Characterization",
+			"Catalyst",
+			"Catalyst Synthesis",
+			"Catalysis",
+			"Single Crystal",
+			"Hydrogenation",
+			"Catalytic Hydrogenation",
+			"Alternative Energy",
+			"Alternative Energy Sources",
+			"Alternative and Novel Energy Sources",
+			"energiewende",
+			"Energy Turnaround"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Materials for Innovative Energy Concepts"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Klaus Banert",
+		"knowsAbout": [
+			"Investigations of reaction mechanisms",
+			"Short lived intermediates",
+			"Synthesis of heterocycles",
+			"Triazoles",
+			"Thiazoles",
+			"Functionalized allenes",
+			"Small ring compounds",
+			"Azirines",
+			"Diazirines",
+			"Organic azides" 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Organic Chemistry"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Werner Goedel",
+		"knowsAbout": [
+			"Thermodynamics",
+			"Kinetics",
+			"Interfacial Chemistry",
+			"Colloids",
+			"Surface and colloid analysis"
+			"Polymers",
+			"Thin Film Deposition",
+			"Water Purifications Technologies",
+			"Surface Science",
+			"Conducting Polymers",
+			"Membranes",
+			"Membrane Technology",
+			"Filtration",
+			"Membrane Separation",
+			"Membrane Filtration",
+			"Atomic Layer Deposition",
+			"Polymer Brushes"  
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Physical Chemistry"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Michael Sommer",
+		"knowsAbout": [
+			"Conjugated Polymers",
+			"Materials for Batteries and Supercapacitors",
+			"Polymers for Fuel Cell Membranes",
+			"Mechanochromic Polymers",
+			"polycondcensation"  
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Polymer Chemistry"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Alexander A. Auer",
+		"knowsAbout": [
+			"Challenges for Future Energy Concepts",
+      		"Chemical Energy Conversion"  
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Computer Supported Quantum Chemistry"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Evgeny Kataev",
+		"knowsAbout": [
+			"Supramolecular Synthesis and Self Assembly",
+			"Molecular Recognition",
+			"Fluorescent Chemosensors",
+			"Molecular Switches and Devices",
+			"Functional Materials"   
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Junior researcher group of Supramolecular Chemistry"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Christoph Tegenkamp",
+		"knowsAbout": [
+			"Materials",
+			"Adsorption",
+			"Density Functional Theory",
+			"Spectroscopy",
+			"Nanotechnology",
+			"Electronic Structure",
+			"Condensed Matter Physics",
+			"Solid State Physics",
+			"Physical Chemistry",
+			"Graphene",
+			"Annealing",
+			"Atoms",
+			"XPS",
+			"Condensed Matter",
+			"Surface Chemistry",
+			"Epitaxy",
+			"Electron",
+			"Dispersion",
+			"Scanning Tunneling Microscopy",
+			"Photoelectron Spectroscopy",
+			"Topological Insulators",
+			"Electron Transport",
+			"UPS",
+			"Nano Research",
+			"LEED",
+			"Graphene Growth",
+			"Atomic",
+			"Surfaces",
+			"Band Gap"   
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Solid Surfaces Analysis"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Carsten Deibel",
+		"knowsAbout": [
+			"Organic Semiconductors",
+			"Inorganic Semiconductors",
+			"Photovoltaics",
+			"Disordered Matter",
+			"Organic Solar Cells",
+			"Condensed Matter Physics",
+			"Material Characterization",
+			"Thin Films and Nanotechnology",
+			"Energy",
+			"Photonics",
+			"Energy Conversion",
+			"Photovoltaics",
+			"Thin Films",
+			"Solar Cells",
+			"Solar Energy Materials",
+			"Photophysics",
+			"Physics",
+			"Organic Photovoltaics",
+			"Absorption Spectroscopy",
+			"Photonics and Opticals Communications",
+			"X Ray Scattering",
+			"Electron Spin Resonance",
+			"Organic Solar Cells",
+			"Organic Semiconductors",
+			"Bulk Heterojunction",
+			"PLS",
+			"Heterojunction Solar Cells",
+			"Polymer Soalr Cells",
+			"Charge Transport",  
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Optics and Photonics of Condensed Matter, in particular Sensor Systems and Analytics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Thomas Seyller",
+		"knowsAbout": [
+			"Materials Science",
+			"Solid State Physics",
+			"Experimental Physics"
+			"Materials",
+			"Material Characterization"
+			"Nanomaterials",
+			"Thin FIlms and Nanotechnology",
+			"Thin Film Deposition",
+			"Materials Science",
+			"Electronic Structure",
+			"Surface Characterization",
+			"Surface Science",
+			"Graphene",
+			"Surface Analysis",
+			"XPS",
+			"Vacuum Technology",
+			"Graphite",
+			"UHV",
+			"Graphene Electronics",
+			"Photoelectron Spectroscopy",
+			"Surface Physics",
+			"Graphene Sheets",
+			"UPS",
+			"Ultra High Vacuum",
+			"AES",
+			"LEED",
+			"Core Level Photoemission",
+			"Graphene Growth",
+			"Electron Spectroscopy"
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Technical Physics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Ulrich Theodor Schwarz",
+		"knowsAbout": [
+			"Experimental Physics",
+			"Skills and expertise",
+			"Material Characterization",
+			"Materials",
+			"Optics and Photonics",
+			"Optoelectronics",
+			"Photonics",
+			"Optics",
+			"Semiconductor Device Physics",
+			"Laser",
+			"Optical Physics",
+			"Solid state Physics",
+			"Semiconductor",
+			"Experimental Physics",
+			"Applied Physics",
+			"Solar Cells",
+			"Waveguides",
+			"GaN",
+			"LED",
+			"Light Emitting Diode",
+			"LEDs",
+			"Laser Diodes",
+			"Semiconductor Laser",
+			"InGaN" 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Experimental Sensor Science"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Dietrich R. T. Zahn",
+		"knowsAbout": [
+			"Material Characterization",
+			"Materials",
+			"Nanomaterials",
+			"Thin Films and Nanotechnology",
+			"Thin Films Deposition",
+			"Optoelectronics",
+			"Optics",
+			"Composites",
+			"Thin Films",
+			"Semiconductor Device Physics",
+			"Spectroscopy",
+			"Laser",
+			"Thin Films Technology",
+			"Surface Characterization",
+			"Nanoelectronics",
+			"Solid State Physics",
+			"Physical Chemistry",
+			"Semiconductor",
+			"Carbon Nanotubes",
+			"Experimental Physics",
+			"Electrical Characterization",
+			"Surface Science",
+			"Solar Cells",
+			"Sputtering",
+			"Semiconductor Nanostructure",
+			"Atomic Force Microscopy",
+			"Nanostructures",
+			"Nanocrystals",
+			"Raman Spectroscopy",
+			"Spectra",
+			"Annealing",
+			"Device Physics",
+			"Quantum Dots",
+			"Conducting Polymers",
+			"Silicon",
+			"GaN",
+			"Infrared Spectroscopy",
+			"Raman Scattering",
+			"Organic Electronics",
+			"Organic Photovoltaics",
+			"Epitaxy",
+			"Infrared",
+			"GaAs",
+			"Molecular Beam Epitaxy",
+			"Organic Semiconductors",
+			"Lattice Dynamics",
+			"Spectroscopic Ellipsometry",
+			"Surface Enhanced Raman ",
+			"Molecular Electronics",
+			"MOCVD",
+			"Ellipsometry",
+			"Interface Design",
+			"Epitaxial growth",
+			"Transition Metal Oxides",
+			"NEXAFS",
+			"Micro Raman",
+			"DLTS",
+			"Organisations, Institutes, Research Groups",
+			"Tip Enhanced Raman Spectroscopy",
+			"TERS",
+			"Perylene" 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Semiconductor Physics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Olav Hellwig",
+		"knowsAbout": [
+			"Magnetic Domain Formation",
+			"Magnetic Functional Materials",
+			"Magnetic Recording Media",
+			"Magnetic Thin Film Systems",
+			"Surface Spin Flop",
+			"Ion Beam Irradiation"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Functional Magnetic Materials"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Wolfgang Einhäuser Treyer",
+		"knowsAbout": [
+			"Neuroscience",
+			"Psychophysics",
+			"Cognitive Psychology",
+			"Real world",
+			"Natural scenes" 			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Physics of Cognitive Processes"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Martin Weigel",
+		"knowsAbout": [
+			"High Perfomance Computing on GPUs",
+			"Spin Glasses and Random Field Systems with Continous Spins",
+			"Random Surfaces and Networks",
+			"Optimization and Simulation Techniques for Complex Systems",
+			"Statistical Mechanics of Social Systems" 			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professur Simulation naturwissenschaftlicher Prozesse"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Alexandra Bendixen",
+		"knowsAbout": [
+			"Teaching and Learning",
+			"Learning",
+			"Cognitive Neuroscience",
+			"Memory",
+			"Cognitive Psychology",
+			"Sleep, Memory Learning",
+			"Acoustics",
+			"Experimental Psychology",
+			"Sound",
+			"Cognition",
+			"Biological Psychology",
+			"Auditory Perception",
+			"Auditory Processing",
+			"Auditory System",
+			"Attention",
+			"Cognitive Behavioral"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Structure and Function of Cognitive Systems"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Angela Thränhardt",
+		"knowsAbout": [
+			"Solid State Physics",
+      		"Optics",
+      		"Optical Engineering"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Theoretical Physics Simulation of New Materials"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Martina Hentschel",
+		"knowsAbout": [
+			"Mesoskopic Physics of Electronic and Photonic Systems",
+      		"Complex Dynamics in Mesoskopic Systems",
+      		"Coupled and Driven Complex Mesoscopic systems", 
+      		"Optical Microcavities",
+      		"Graphene Billiards",
+      		"Fundamental Mesoscopic Effects" 			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Theoretical Physics of Complex Dynamic Systems"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Sibylle Gemming",
+		"knowsAbout": [
+			"Functional Oxides",
+      		"Molecular Electronics"",",
+      		"Self assembly",
+      		"Materials",
+			"Nanostructured Materials",
+			"Nanoscience",
+			"Density Functional Theory",
+			"Computational Chemistry",
+			"Electronic Structure",
+			"Nanoelectronics",
+			"Computational Materials Science",
+			"Semiconductor Nanostructure",
+			"Nanostructures",
+			"Nanowires",
+			"Material Modeling",
+			"Computational Nanotechnology",
+			"Molecular Electronics"  			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Natural Sciences",
+			"programName" : "Professorship of Theoretical physics of quantum mechanical processes and systems"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Silke Hüsing",
+		"knowsAbout": [
+			"Accounting",
+			"Basic Cases of Taxation",
+			"Case Studies",
+			"Colloquium for Doctoral Students",
+			"Business Taxation",
+			"Income Tax",
+			"Corporate Tax and Business Tax",
+			"Tax Balance Sheet and Investory of Assets",
+			"Tax Management"   			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship Business Taxation and Auditing"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Jochen Hartwig",
+		"knowsAbout": [
+			"Theoretical and Empirical Macroeconomics",
+			"Economic Policy",
+			"Empirics and Policy Implications of Growth and Structural Change",
+			"Employment Theory and Policy",
+			"Money, Credit and Monetary Policy",
+			"Income Distribution and Redistribution",
+			"Empirics and Policy Implications of 'Baumol's disease'",
+			"Health Expenditures and Health Policy",
+			"International Business Cycle and Stabilization Policy",
+			"Principle of Effective Demand",
+			"Political Economy of Statistical Measurement",
+			"Swiss and German Economies: Analysis and Policy Advice"   			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship for Economic Policy"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Marcel Lichters",
+		"knowsAbout": [
+			"Behavioural Economics",
+			"Applied Psychology",
+			"Behavioural Science",
+			"Experimental Psychology",
+			"Strategic Marketing",
+			"Branding",
+			"Multivariate Statistics",
+			"Multivariate Data Analysis",
+			"Marketing",
+			"Consumer Psychology",
+			"Services Marketing",
+			"Sensory Analysis",
+			"Consumer Behavior",
+			"Structural Equation Modeling",
+			"Eye Tracking",
+			"Marketing Research",
+			"Consumer Research",
+			"Partial Least Squares",
+			"Partial Least Squares Regression",
+			"Leadership Skills",
+			"Conjoint Analysis",
+			"Mixed Effects Models",
+			"Neuromarketing",
+			"Discrete Choice Experiments",
+			"Adaptive Conjoint Analysis"   			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship for Marketing and Commercial Management"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Torsten Heinrich",
+		"knowsAbout": [
+			"Theory of Value, Price and Employment",
+       		"Analysis of Market Processes",
+        	"Microeconomic Foundations",
+        	"Economic Laws of Motion in a Modern Society"  			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Microeconomics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Uwe Götze",
+		"knowsAbout": [
+			"Strategic Management",
+         	"Management Accounting",
+         	"Controlling",
+         	"Investment Appraisal",
+         	"Cost Oriented Product Design",
+         	"Management and Engineering" 			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Management Accounting and Control"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Thomas Kuhn",
+		"knowsAbout": [
+			"Public Finance",
+			"Fiscal Federalism",
+			"Environmental Economics",
+			"Growth Theory",
+			"Mechanism Design",
+			"International Trade and the Environment",
+			"Labour Economics" 			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Economics IV - Public Finance"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Friedrich Thießen",
+		"knowsAbout": [
+			"Finance",
+        	"Regional economy",
+        	"Ethics and market economies" 			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship for finance and banking"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Christian Breuer",
+		"knowsAbout": [
+			"Applied Macroeconomics",
+        	"International Economics",
+        	"Public Finance"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Junior Professorship for European Economics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Julien Bucher",
+		"knowsAbout": [
+			"Information Technology and Politics",
+			"Political Economy",
+			"Qualitative and Multi-method Research",
+			"Social and Political Philosophy",
+			"Philosophy of Science",
+			"Ethics",
+			"Visual Sociology",
+			"Communication and Media",
+			"Qualitative Social Research",
+			"Qualitative Analysis",
+			"Creativity and Innovation",
+			"Media Studies",
+			"Content Analysis",
+			"Case Studies",
+			"New Media Technology",
+			"New Technology",
+			"Infrastructure",
+			"Social Innovation",
+			"Diffusion of Innovation",
+			"Digital Innovation"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Organization and International Management"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Christian M. Huber",
+		"knowsAbout": [
+			"Behavioural Economics",
+			"Qualitative Social Research",
+			"Organizational Studies",
+			"Management",
+			"Environmental Sustainability",
+			"Social Sustainability",
+			"Neoliberalism",
+			"Organizations",
+			"sufficiency",
+			"Freedom in Organizations"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Organization and International Management"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Robert Czudaj",
+		"knowsAbout": [
+			"Macroeconomic Dynamics",
+			"Economic Behavior and Organization",
+			"Econometrics and Statistics",
+			"Energy Economics",
+			"Economic Inquiry",
+			"Money and Finance"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Econometrics and Empirical Economics"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Nina Katrin Hansen",
+		"knowsAbout": [
+			"HRM Research"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Human Resource Management and Leadership Studies"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Matthias Wichmann",
+		"knowsAbout": [
+						 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Production and Industrial Management"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Marlen Gabriele Arnold",
+		"knowsAbout": [
+			"Strategic Environmental and Sustainability Management",
+			"Concepts of Sustainability-Oriented Innovations and Change",
+			"Inter- and Transdisciplinary Sustainability Research"				 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship for Corporate Environmental Management and Sustainability"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Stefan Hüsig",
+		"knowsAbout": [
+			"Business Administration",
+			"Economic History",
+			"Entrepreneurial Economics",
+			"Computer Science",
+			"Economics",
+			"Management",
+			"Business",
+			"Strategic Management",
+			"Art",
+			"Information and Communication Technology",
+			"Entrepreneurship",
+			"Business Development",
+			"Strategic Planning",
+			"Innovation",
+			"Information Technology",
+			"Project Management",
+			"Business Analysis",
+			"Business Management",
+			"Information System Management",
+			"Business Model Innovation",
+			"SMEs",
+			"Technology and Innovation",
+			"Higher Education",
+			"Innovation Management",
+			"Innovation Studies",
+			"Research and Development",
+			"New Product Development",
+			"Strategy",
+			"Open Innovation",
+			"Telecommunications Engineering",
+			"Medical Informatics",
+			"Communication Engineering",
+			"Markets",
+			"Service Innovation",
+			"Telecommunications",
+			"Business Models",
+			"Technology Development",
+			"Management Information Systems",
+			"Innovation Process",
+			"WLAN",
+			"NPD",
+			"Data Communications",
+			"Technology Strategy",
+			"Service",
+			"IDEA",
+			"Disruptive Technologies",
+			"Innovation Management"		 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship for Innovation Research and Technology Management"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Michael Hinz",
+		"knowsAbout": [
+			"Objectives and Effectiveness of Financial Reporting",
+			"Financial Reporting and Capital Markets",
+			"Accounting Theory",
+			"Judgment and Decision Making in Accounting",
+			"Earnings Management",
+			"Quantitative and Qualitative Financial Statement Analysis",
+			"Valuation",
+			"Independence of Auditor",
+			"Legal Liability",
+			"Auditing Process",
+			"Fraud",
+			"Reconstruction of Companies",
+			"Reorganization of Companies"						 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship International Accounting and Auditing"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Barbara Dinter",
+		"knowsAbout": [
+			"Information Systems",
+			"Strategic Management",
+			"Information System Management",
+			"Information Management",
+			"Innovation Management",
+			"Information Technology Management",
+			"Business Intelligence",
+			"Business Analytics",
+			"Big Data",
+			"Open Innovation",
+			"Big Data Analysis",
+			"Online Communities",
+			"Management Information Systems",
+			"Open Data"		 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Information Systems 1"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Peter Gluchowski",
+		"knowsAbout": [
+			"Business Informatics ",
+			"Customer Relationship Management",
+			"Value Chain Management ",
+			"Business Intelligence ",
+			"Analytics"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship of Information Systems 2"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Stefan Korte",
+		"knowsAbout": [
+			"Internal Market Law",
+			"Public Competition Law",
+			"Public Consumer Protection Law",
+			"Public Media Law",
+			"Right of Demerit Goods",
+			"Law of Spatial Economics"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship for Public Law & Public Business Law"
+		}
+	},
+	{
+		"@type": "Person",
+		"name": "Dagmar Gesmann-Nuissl",
+		"knowsAbout": [
+			"Legal Fundaments",
+			"Technology Law",
+			"Innovation Law​​"			 
+	    ],
+		"memberOf":{
+			"@type" : "ProgramMembership",
+			"name" : "Faculty of Economics and Business Administration",
+			"programName" : "Professorship for Private Law and Intellectual Property Law"
+		}
+	},
+
+
+
+  ]
+
+}
+ </script>

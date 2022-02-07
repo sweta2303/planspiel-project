@@ -1,0 +1,484 @@
+[
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Univ.-Prof. Dr. Matthias Werner",
+        "professorship": "Professorship of Operating Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "N.\u2009N.",
+        "professorship": "Professorship of Data Management Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Univ.-Prof. Dr. Guido Brunnett",
+        "professorship": "Professorship of Computer Graphics and Visualization"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Univ.-Prof. Dr. Fred Hamker",
+        "professorship": "Professorship of Artificial Intelligence"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Human-Computer Interaction",
+            "Multimeadia Information Retrieval",
+            "Audio Visual Media"
+        ],
+        "prof_name": "Univ.-Prof. Dr. Maximilian Eibl",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "statistics",
+            "Artificial Intelligence",
+            "Data Mining",
+            "Robotics"
+        ],
+        "prof_name": "Andy Börner",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [ 
+            "Information Retrieval",
+            "Lucene",
+            "Natural Language Processing",
+            "content Based Image Retrieval",
+            "Text analysis",
+            "Information Science",
+            "Software Engineering"
+        ],
+        "prof_name": "Dr. Thomas Wilhelm-Stein",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Maria Costantino",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Human-Computer Interaction",
+            "Well-Being",
+            "Ux Designs"
+        ],
+        "prof_name": "Vera Fink",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Philosophy of Science",
+            "Ethics",
+            "Social and Political Philosophy"
+        ],
+        "prof_name": "Mira Mariane Freiermuth",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Artificial Intelligence",
+            "Software Engineering",
+            "Control system Engineering"  
+        ],
+        "prof_name": "Philipp Graf",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Fanny Gruhl",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Acoustic Engineering",
+            "Artificial Intelligence",
+            "Computing in Mathematics",
+            "Data Mining",
+            "Natural Science",
+            "Neural Network"
+        ],
+        "prof_name": "Stefan Kahl",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Cultural Antropology",
+            "Qualitative Social Research",
+            "Social and Political Philosophy"
+        ],
+        "prof_name": "Dr. Albrecht Kurze",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Stefanie Müller",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Human-Computer Interaction",
+            "User Experience",
+            "Design Thiking",
+            "Machine learning",
+            "Artificial Intelligence"
+        ],
+        "prof_name": "Michael Storz",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Machine learning",
+            "Supervised learning"
+        ],
+        "prof_name": "stefan Taubert",
+        "professorship": "Professorship of Media Informatics"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Parllel and Distributed Systems",
+            "Scientific Computing",
+            "High Performance Computing",
+            "Super Computing",
+            "GPU programming",
+            "Cluster Computing",
+            "MPI"
+        ],
+        "prof_name": "Univ.-Prof. Dr. Gudula Rünger",
+        "professorship": "Professorship of Practical Computer Science"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [ 
+            "High Performance Computing",
+            "Parllel Computing",
+            "Complex Simulation Applcations",
+        ],
+        "prof_name": "M.Sc. Robert Dietze",
+        "professorship": "Professorship of Practical Computer Science"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [ 
+            "Merge technologies",
+            "High Performance Computing and Simulation",
+            "Parllel and Distributed Computing"
+        ],
+        "prof_name": "Dr. Michael Hofmann",
+        "professorship": "Professorship of Practical Computer Science"
+    },
+
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [ 
+            "Sustainable Computing",
+            "Super Computing",
+            "Computer Science and Information systems",
+            "High Performance computing and Simulation",
+            "Computational Science and Engineering",
+            "Energy Efficiency",
+            "Vectorization"
+        ],
+        "prof_name": "M.Sc. Thomas Jakobs",
+        "professorship": "Professorship of Practical Computer Science"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [ 
+            "Performance Measurement",
+            "Performance analysis",
+            "High Performance Computing",
+            "Energy Efficiency"
+        ],
+        "prof_name": "M.Sc. Robert Kiesel",
+        "professorship": "Professorship of Practical Computer Science"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [ 
+            "Information Systems Architecture and Technology",
+            "Information and Communication Technology",
+            "Parallel a ndDistributed Network"
+        ],
+        "prof_name": "M.Sc. Ronny Kramer",
+        "professorship": "Professorship of Practical Computer Science"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [ 
+            "Super Computing",
+            "High Performance Computing",
+            "Computer Architecture and High Performance Computing",
+            "Computer Aspects of Numerical Algorithms",
+            "High Performance Computing & Simulation"
+        ],
+        "prof_name": "M.Sc. Marcel Richter",
+        "professorship": "Professorship of Practical Computer Science"
+    },
+
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Univ.-Prof. Dr. Alejandro Masrur",
+        "professorship": "Professorship of Computer Architectures and Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Univ.-Prof. Dr. Janet Siegmund",
+        "professorship": "Professorship of Software Engineering"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Univ.-Prof. Dr. Wolfram Hardt",
+        "professorship": "Professorship of Computer Engineering"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "Univ.-Prof. Dr. Andreas Goerdt",
+        "professorship": "Professorship of Theoretical Computer Science"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Combinatorics",
+            "Graph Theory",
+            "Geometry",
+            "Combinatorial Optimization",
+            "Algorithm analysis",
+            "Theoretical Computer Science",
+            "Discreet Mathematics"
+        ],
+        "prof_name": "Univ.-Prof. Dr. Hanno Lefmann",
+        "professorship": "Professorship of Theoretical Computer Science/Information Security"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "web applications",
+            "web engineering",
+            "serive engineering",
+            "serverless computing",
+            "human computer Interaction",
+            "hyper-connected Society",
+            "web user interfaces",
+            "collaborative web applications",
+            "web application development",
+            "user interface mashups",
+            "distributed web applications"  
+        ],
+        "prof_name": "Univ.-Prof. Dr. Martin Gaedke",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [ 
+            "web engineering",
+            "Web Migration",
+            "Web Of things",
+            "internet of things",
+            "human computer Interaction",
+            "Web Information Systems Engineering",
+            "web user interfaces"  
+        ],
+        "prof_name": "DR.-ING. SEBASTIAN HEIL",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Robot sensing systems",
+            "Sensor systems",
+            "mobile Computing",
+            "bridges",
+            "frequency-domain analysis"
+        ],
+        "prof_name": "MAIK BENNDORF M.SC.",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "deep learning",
+            "Artificial Intelligence",
+            "Blockchain",
+            "Knowledge Management",
+            "Information Management",
+            "business Process Management"    
+        ],
+        "prof_name": "MBA EDUARD DAOUD",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "linked data",
+            "Information Management",
+            "web engineering",
+            "Intelligent Information Management"  
+        ],
+        "prof_name": "CHRISTOPH GÖPFERT M.SC.",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Semantic web",
+            "linked data",
+            "webservers",
+            "Distributed Computer Networks",
+            "Media Computer Science",
+            "Mobile Computing",
+            "Intelligent Information Management",
+            "Human-Computer Interaction",
+            "Data Quality Assessment"
+        ],
+        "prof_name": "DIPL.-INF. ANDRÉ LANGER",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "internet of things",
+            "web of things",
+            "Knowledge extraction",
+            "Cellular Networks",
+            "Semantic web",
+            "web engineering",
+            "web technologies"
+        ],
+        "prof_name": "MAHDA NOURA M.SC.",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": "",
+        "prof_name": "DIPL.-INF. (FH) ANDREAS SCHULZ",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "distributed computing",
+            "WASM",
+            "Complex Event Processing",
+            "web Science",
+            "Distributed systems",
+            "web servers",
+            "agile development",
+            "web engineering"
+        ],
+        "prof_name": "VALENTIN SIEGERT M.SC.",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Information- and communication systems",
+            "Mathematical Computing",
+            "Applied Mathematics " 
+        ],
+        "prof_name": "DIPL.-MATH. RALPH SONTAG",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Machine learning",
+            "cloud computing",
+            "Resource Demand Estimation"
+        ],
+        "prof_name": "MARKUS ULLRICH M.SC.",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Software engineering",
+            "Software development",
+            "HTML code programming",
+            "database programming",
+            "Solid",
+            "Relation Database",
+            "web development",
+            "Datascience",
+            "Intelligent Information Management"
+        ],
+        "prof_name": "DANG VU NGUYEN HAI M.SC.",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Computer Networking",
+            "Parllel and Distributed Computing",
+            "Network Security",
+            "Networking",
+            "Virtualization technology",
+            "web service aggregation",
+            "data as service"
+            "Big Data"
+        ],
+        "prof_name": "BAHAREH ZAREI M.SC.",
+        "professorship": "Professorship of Distributed and Self-organizing Systems"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "MATLAB",
+            "Spectroscopy",
+            "Fluorencence",
+            "RNA",
+            "optics",
+            "experimental physics",
+            "Applied Mathematics",
+            "Image Processing",
+            "Machine learning"
+        ],
+        "prof_name": "Jun.-Prof. Dr. Danny Kowerko",
+        "professorship": "Junior Professorship of Media Computing"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Computer Vision",
+            "deep learning",
+            "Image Processing"
+        ],
+        "prof_name": "Tobias Schlosser",
+        "professorship": "Junior Professorship of Media Computing"
+    },
+    {
+        "faculty": "\nFaculty of Computer Science\n",
+        "interests": [
+            "Audio Signal Processing",
+            "Sound analysis",
+            "Acoustic Signal Processing",
+            "Acoustic Engineering",
+            "Acoustic analysis",
+            "Digital Signal Processing",
+            "Music analysis"
+        ],
+        "prof_name": "René Erler",
+        "professorship": "Junior Professorship of Media Computing"
+    }
+]

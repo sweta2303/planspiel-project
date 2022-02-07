@@ -1,0 +1,2326 @@
+[{
+	"faculty": " Computer Science",
+	"interests": [
+		"Networking",
+		"Information Systems",
+		"Security",
+		"Mobile Computing"
+	],
+	"prof_name": "Matthias Werner",
+	"professorship": "Operating Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Guido Brunnett",
+	"professorship": "Computer Graphics and Visualization",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Fred Hamker",
+	"professorship": "Artificial Intelligence",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Human-Computer Interaction",
+		"Multimeadia Information Retrieval",
+		"Audio Visual Media"
+	],
+	"prof_name": "Maximilian Eibl",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"statistics",
+		"Artificial Intelligence",
+		"Data Mining",
+		"Robotics"
+	],
+	"prof_name": "Andy Börner",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Information Retrieval",
+		"Lucene",
+		"Natural Language Processing",
+		"content Based Image Retrieval",
+		"Text analysis",
+		"Information Science",
+		"Software Engineering"
+	],
+	"prof_name": "Thomas Wilhelm-Stein",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Maria Costantino",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Human-Computer Interaction",
+		"Well-Being",
+		"Ux Designs"
+	],
+	"prof_name": "Vera Fink",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Philosophy of Science",
+		"Ethics",
+		"Social and Political Philosophy"
+	],
+	"prof_name": "Mira Mariane Freiermuth",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Artificial Intelligence",
+		"Software Engineering",
+		"Control system Engineering"
+	],
+	"prof_name": "Philipp Graf",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Fanny Gruhl",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Acoustic Engineering",
+		"Artificial Intelligence",
+		"Computing in Mathematics",
+		"Data Mining",
+		"Natural Science",
+		"Neural Network"
+	],
+	"prof_name": "Stefan Kahl",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Cultural Antropology",
+		"Qualitative Social Research",
+		"Social and Political Philosophy"
+	],
+	"prof_name": "Albrecht Kurze",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Stefanie Müller",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Human-Computer Interaction",
+		"User Experience",
+		"Design Thiking",
+		"Machine learning",
+		"Artificial Intelligence"
+	],
+	"prof_name": "Michael Storz",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Machine learning",
+		"Supervised learning"
+	],
+	"prof_name": "stefan Taubert",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Parllel and Distributed Systems",
+		"Scientific Computing",
+		"High Performance Computing",
+		"Super Computing",
+		"GPU programming",
+		"Cluster Computing",
+		"MPI"
+	],
+	"prof_name": "Gudula Rünger",
+	"professorship": "Practical Computer Science",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"High Performance Computing",
+		"Parllel Computing",
+		"Complex Simulation Applcations"
+	],
+	"prof_name": "Robert Dietze",
+	"professorship": "Practical Computer Science",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Merge technologies",
+		"High Performance Computing and Simulation",
+		"Parllel and Distributed Computing"
+	],
+	"prof_name": "Michael Hofmann",
+	"professorship": "Practical Computer Science",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Sustainable Computing",
+		"Super Computing",
+		"Computer Science and Information systems",
+		"High Performance computing and Simulation",
+		"Computational Science and Engineering",
+		"Energy Efficiency",
+		"Vectorization"
+	],
+	"prof_name": "Thomas Jakobs",
+	"professorship": "Practical Computer Science",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Performance Measurement",
+		"Performance analysis",
+		"High Performance Computing",
+		"Energy Efficiency"
+	],
+	"prof_name": "Robert Kiesel",
+	"professorship": "Practical Computer Science",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Information Systems Architecture and Technology",
+		"Information and Communication Technology",
+		"Parallel a ndDistributed Network"
+	],
+	"prof_name": "Ronny Kramer",
+	"professorship": "Practical Computer Science",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Super Computing",
+		"High Performance Computing",
+		"Computer Architecture and High Performance Computing",
+		"Computer Aspects of Numerical Algorithms",
+		"High Performance Computing & Simulation"
+	],
+	"prof_name": "Marcel Richter",
+	"professorship": "Practical Computer Science",
+	"publications":[]
+},
+
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Alejandro Masrur",
+	"professorship": "Computer Architectures and Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Janet Siegmund",
+	"professorship": "Software Engineering",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Wolfram Hardt",
+	"professorship": "Computer Engineering",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Andreas Goerdt",
+	"professorship": "Theoretical Computer Science",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Combinatorics",
+		"Graph Theory",
+		"Geometry",
+		"Combinatorial Optimization",
+		"Algorithm analysis",
+		"Theoretical Computer Science",
+		"Discreet Mathematics"
+	],
+	"prof_name": "Hanno Lefmann",
+	"professorship": "Theoretical Computer Science/Information Security",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"web applications",
+		"web engineering",
+		"serive engineering",
+		"serverless computing",
+		"human computer Interaction",
+		"hyper-connected Society",
+		"web user interfaces",
+		"collaborative web applications",
+		"web application development",
+		"user interface mashups",
+		"distributed web applications"
+	],
+	"prof_name": "Martin Gaedke",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"web engineering",
+		"Web Migration",
+		"Web Of things",
+		"internet of things",
+		"human computer Interaction",
+		"Web Information Systems Engineering",
+		"web user interfaces"
+	],
+	"prof_name": "Sebastial Heil",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Robot sensing systems",
+		"Sensor systems",
+		"mobile Computing",
+		"bridges",
+		"frequency-domain analysis"
+	],
+	"prof_name": "Maik Benndorf",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"deep learning",
+		"Artificial Intelligence",
+		"Blockchain",
+		"Knowledge Management",
+		"Information Management",
+		"business Process Management"
+	],
+	"prof_name": "Eduard Daoud",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"linked data",
+		"Information Management",
+		"web engineering",
+		"Intelligent Information Management"
+	],
+	"prof_name": "Christoph Gopfert",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Semantic web",
+		"linked data",
+		"webservers",
+		"Distributed Computer Networks",
+		"Media Computer Science",
+		"Mobile Computing",
+		"Intelligent Information Management",
+		"Human-Computer Interaction",
+		"Data Quality Assessment"
+	],
+	"prof_name": "Andre Langer",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"internet of things",
+		"web of things",
+		"Knowledge extraction",
+		"Cellular Networks",
+		"Semantic web",
+		"web engineering",
+		"web technologies"
+	],
+	"prof_name": "Mahda Noura",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": "",
+	"prof_name": "Andreas Schulz",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"distributed computing",
+		"WASM",
+		"Complex Event Processing",
+		"web Science",
+		"Distributed systems",
+		"web servers",
+		"agile development",
+		"web engineering"
+	],
+	"prof_name": "Valentin Siegert",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Information- and communication systems",
+		"Mathematical Computing",
+		"Applied Mathematics "
+	],
+	"prof_name": "Ralph Sontag",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Machine learning",
+		"cloud computing",
+		"Resource Demand Estimation"
+	],
+	"prof_name": "Markus Ullrich",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Software engineering",
+		"Software development",
+		"HTML code programming",
+		"database programming",
+		"Solid",
+		"Relation Database",
+		"web development",
+		"Datascience",
+		"Intelligent Information Management"
+	],
+	"prof_name": "Dang Vu Nguyen",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Computer Networking",
+		"Parllel and Distributed Computing",
+		"Network Security",
+		"Networking",
+		"Virtualization technology",
+		"web service aggregation",
+		"data as service",
+		"Big Data"
+	],
+	"prof_name": "Bahareh Zarei",
+	"professorship": "Distributed and Self-organizing Systems",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"MATLAB",
+		"Spectroscopy",
+		"Fluorencence",
+		"RNA",
+		"optics",
+		"experimental physics",
+		"Applied Mathematics",
+		"Image Processing",
+		"Machine learning"
+	],
+	"prof_name": "Danny Kowerko",
+	"professorship": "Junior Media Computing",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Computer Vision",
+		"deep learning",
+		"Image Processing"
+	],
+	"prof_name": "Tobias Schlosser",
+	"professorship": "Junior  Media Computing",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Audio Signal Processing",
+		"Sound analysis",
+		"Acoustic Signal Processing",
+		"Acoustic Engineering",
+		"Acoustic analysis",
+		"Digital Signal Processing",
+		"Music analysis"
+	],
+	"prof_name": "René Erler",
+	"professorship": "Junior  Media Computing",
+	"publications":[]
+},
+{
+	"faculty": " Computer Science",
+	"interests": [
+		"Human-Computer Interaction",
+		"Web Designing",
+		"User Interface",
+		"Interface Design"
+	],
+	"prof_name": "Manuel Fischer",
+	"professorship": "Media Informatics",
+	"publications":[]
+},
+{
+	"faculty": "Humanities",
+	"interests": [
+		"User experience",
+		"Cognitive Psycology",
+		"User Studies",
+		"Human Machine Interaction",
+		"Human Computer Interaction",
+		"Human Machine Interface"
+	],
+	"prof_name": "Franziska Hartwich",
+	"professorship": "Research Group Cognitive and Engineering Psychology",
+	"publications":[]
+},
+{
+	"faculty": "Humanities",
+	"interests": [
+		"User Experience",
+		"Cognitive Psycology",
+		"User Studies",
+		"Human Machine Interaction",
+		"Human Computer Interaction",
+		"Human Machine Interface"
+	],
+	"prof_name": "Daniel Trommler",
+	"professorship": "Research Group Cognitive and Engineering Psychology",
+	"publications":[]
+},
+{
+	"faculty": "Humanities",
+	"interests": [
+		"User Experience",
+		"Cognitive Psycology",
+		"User Studies",
+		"Human Computer Interaction"
+	],
+	"prof_name": "Josef F. Krems",
+	"professorship": "Research Group Cognitive and Engineering Psychology",
+	"publications":[]
+},
+{
+	"faculty": "Behavioural and Social Sciences",
+	"interests": [
+		"Cognitive Neuroscience",
+		"Cognitive NeuroPsychology",
+		"Cognitive Psychology",
+		"Eye-Tracker",
+		"Experimental Psychology",
+		"Visuospatial Attension",
+		"Cognitive Science",
+		"Learning And Memory",
+		"Executive Function",
+		"Functional Neuro imaging",
+		"Embodied Cognition",
+		"Object Tracking",
+		"Perception and Action",
+		"Spatial Cognition"
+	],
+	"prof_name": "Georg Jahn",
+	"professorship": "Applied Geropsychology and Cognition",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Cognitive Neuroscience",
+		"Cognitive NeuroPsychology",
+		"Cognitive Psycology",
+		"Sensors and Cognitive Psychology"
+	],
+	"prof_name": "Sascha Feder",
+	"professorship": "Physics:Cognitive Systems",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Cognitive Neuroscience",
+		"Behavioral Neuroscience",
+		"Cognitive Psychology",
+		"Sensors and Cognitive Psychology",
+		"Spatial Cognition",
+		"Psycophisics",
+		"Experimental Psycology"
+	],
+	"prof_name": "Karl Kopiske",
+	"professorship": "Physics:Cognitive Systems",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Cognitive Neuroscience",
+		"Cognitive NeuroPsychology",
+		"Acoustics",
+		"Cognitive Science",
+		"Learning And Memory",
+		"Auditory Processing",
+		"Sound",
+		"Auditory Perception",
+		"Sleep memory and Learning"
+	],
+	"prof_name": "Christiane Neubert",
+	"professorship": "Physics:Cognitive Systems",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Cognitive Neuroscience",
+		"Cognitive NeuroPsychology",
+		"Acoustics",
+		"Cognitive Science",
+		"Auditory Processing",
+		"Sound",
+		"Auditory Perception"
+	],
+	"prof_name": "Sabine Thomaßen",
+	"professorship": "Physics:Cognitive Systems",
+	"publications":[]
+},
+{
+	"faculty": "Behavioural and Social Sciences",
+	"interests": [
+		"Media Psychology",
+		"Applied Psychology",
+		"Human Machine Interaction",
+		"Human-Computer Interaction",
+		"Human Factor Psychology",
+		"Music Psychology",
+		"Emotion Regulation",
+		"Self-Regulation"
+	],
+	"prof_name": "Christiane Attig",
+	"professorship": "Applied Geropsychology and Cognition",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Automorphisms",
+		"Birational Transformations",
+		"Moduli Spaces of Sheaves"
+	],
+	"prof_name": "Annalisa Grossi",
+	"professorship": "Theoretical Mathematics",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Irreducible Holomorphic Symplectic",
+		"Rational Curves",
+		"Moduli Spaces of Sheaves",
+		"Hodge Theory"
+	],
+	"prof_name": "Valeria Bertini",
+	"professorship": "Theoretical Mathematics",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Toroidal Compactifications",
+		"K3 Surfaces",
+		"Moduli Spaces"
+	],
+	"prof_name": "Luca Giovenzana",
+	"professorship": "Theoretical Mathematics",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Irreducible Symplectic Manifolds",
+		"Hodge Theory",
+		"Degenerations Singularities",
+		"Lagrangian Fibrations"
+	],
+	"prof_name": "Christian Lehn",
+	"professorship": "Theoretical Mathematics",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Frobenius Manifolds",
+		"Deformation Theory",
+		"Mirror Symmetry",
+		"Hodge Theory"
+	],
+	"prof_name": "Christian Sevenheck",
+	"professorship": "Algebra",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Computational Tropical Geometry",
+		"Toric Geometry",
+		"D-modules"
+	],
+	"prof_name": "Paul Görlach",
+	"professorship": "Algebra",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"D-modules",
+		"Stokes Phenomena",
+		"Mathematical Physics"
+	],
+	"prof_name": "Andreas Hohl",
+	"professorship": "Algebra",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Convex Optimization",
+		"Relaxation",
+		"Discrete Optimization",
+		"Industrial Applications"
+	],
+	"prof_name": "Christoph Helmberg",
+	"professorship": "Algorithmic and Discrete Mathematics",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Mathematical Analysis",
+		"Pure Mathematics",
+		"Topology",
+		"Geometry"
+	],
+	"prof_name": "Peter Stollmann",
+	"professorship": "Analysis",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"High-dimensional Approximation Theory",
+		"Hyperbolic Cross Approximation",
+		"Function Cpaces",
+		"signal Processing"
+	],
+	"prof_name": "Tino Ullrich",
+	"professorship": "Applied Analysis",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"FFT",
+		"Fourier Analysis",
+		"Harmonic Analysis",
+		"Wavelet Analysis"
+	],
+	"prof_name": "Daniel Potts",
+	"professorship": "Applied Functional Analysis",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Statistics and Probability Theory",
+		"Operational Research",
+		"Finance",
+		"Risk Theory"
+	],
+	"prof_name": "Alois Pichler",
+	"professorship": "Mathematical Finance",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Financial Mathematics",
+		"Inverse Problems"
+	],
+	"prof_name": "Dana Uhlig",
+	"professorship": "Mathematical Finance",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Hodge Theory",
+		"Arakelov Theory",
+		"Period Domains",
+		"Belyi's Theorem"
+	],
+	"prof_name": "Ariyan Javanpeykar",
+	"professorship": "Geometry",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Interface of Geometric Analysis",
+		"Low-dimensional Topology",
+		"Harmonic Analysis",
+		"Numerics"
+	],
+	"prof_name": "Philipp Reiter",
+	"professorship": "Harmonic Analysis",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Numerical Simulation",
+		"Numerical Modeling",
+		"Mathematical Analysis",
+		"Applied Mathematics"
+	],
+	"prof_name": "Jan-Frederik Pietschmann",
+	"professorship": "Inverse Problems",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Numerical Analysis",
+		"Krylov Subspaces",
+		"Helmholtz Problems"
+	],
+	"prof_name": "Oliver Ernst",
+	"professorship": "Numerical Mathematics",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Numerical Simulation",
+		"Numerical Analysis",
+		"Numerical Optimization",
+		"Mathematical Computing"
+	],
+	"prof_name": "Roland Herzog",
+	"professorship": "Numerics of Partial Differential Equations",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Stochastic Process",
+		"Differentiation",
+		"Fractals",
+		"Fractal Dimension"
+	],
+	"prof_name": "Uta Freiberg",
+	"professorship": "Stochastics",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Mathematical Programming",
+		"Convex Optimization"
+	],
+	"prof_name": "Vladimir Shikhman",
+	"professorship": "Economical Mathematics",
+	"publications":[]
+},
+{
+	"faculty": "Mathematics",
+	"interests": [
+		"Numerical Analysis",
+		"Numerical Simulation",
+		"Mathematical Modelling",
+		"Optimization"
+	],
+	"prof_name": "Martin Stoll",
+	"professorship": "Scientific Computing",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Finite Element Analysis",
+		"Finite Element Modelling",
+		"Automotive Industry",
+		"Modal Analysis",
+		"Structural Vibration"
+	],
+	"prof_name": "Welf-Guntram Drossel",
+	"professorship": "Adaptronics and Lightweight Design in Production",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Simulation",
+		"Modelling",
+		"Fuel Cells",
+		"Energy Storage",
+		"Advanced Powertrains"
+	],
+	"prof_name": "Thomas Unwerth",
+	"professorship": "Advanced Powertrains",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Design Science Research",
+		"Ergonomics",
+		"User Centered Design",
+		"Open Innovation"
+	],
+	"prof_name": "Angelika Bullinger-Hoffmann",
+	"professorship": "Ergonomics and Innovation Management",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Material Characterization",
+		"Materials",
+		"Heat Treatment",
+		"Material Science"
+	],
+	"prof_name": "Andreas Undisz",
+	"professorship": "Electron Microscopy and Microstructural Analysis",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Optimization",
+		"Operations Management",
+		"Production Engineering",
+		"Production Planning",
+		"Industrial Management",
+		"Lean Management"
+	],
+	"prof_name": "Andreas Undisz",
+	"professorship": "Factory Planning and Factory Management",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Vehicle Technology",
+		"Vehicle Work",
+		"Brake Technology",
+		"Vehicle Concepts"
+	],
+	"prof_name": "Ralph Mayer",
+	"professorship": "Vehicle System Design",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Information Management",
+		"Measurement",
+		"Tribology",
+		"Calibration",
+		"Precision Engineering"
+	],
+	"prof_name": "Sophie Groeger",
+	"professorship": "Production Measuring Technology",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Thermodynamics",
+		"Kinematics",
+		"Finite Element Method",
+		"Biparabolic Target Functions"
+	],
+	"prof_name": "Jörn Ihlemann",
+	"professorship": "Solid Mechanics",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Mechanical Behaviour of Materials",
+		"Tribology",
+		"Wear testing",
+		"Friction"
+	],
+	"prof_name": "Markus Golder",
+	"professorship": "Conveying Engineering and Materials Handling",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Tool Design",
+		"Kinematics",
+		"Light Metals",
+		"Metal Polymer"
+	],
+	"prof_name": "Michael Gehde",
+	"professorship": "Plastics",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Finite Element Analysis",
+		"Structural Analysis",
+		"Stress Analysis",
+		"FE Analysis",
+		"Elasticity"
+	],
+	"prof_name": "Alexander Hasse",
+	"professorship": "Machine Components and Product Design",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Materials",
+		"Microstructure",
+		"Stress Analysis",
+		"Surface Engineering",
+		"Energy Efficiency"
+	],
+	"prof_name": "Andreas Schubert",
+	"professorship": "Micromanufacturing Technology",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Finite Element Analysis",
+		"Design Engineering",
+		"CAD",
+		"Mechanical Processes",
+		"Production Engineering"
+	],
+	"prof_name": "Maik Berger",
+	"professorship": "Assembly and Handling Technology",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Polymers",
+		"Piezoelectric loudspeaker model",
+		"Transducers"
+	],
+	"prof_name": "Arved Carl Hübler",
+	"professorship": "Printed Media Technology",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"TIG Welding",
+		"Arc Welding",
+		"Flux cored arc welding",
+		"Fume Emission"
+	],
+	"prof_name": "Mario Kusch",
+	"professorship": "Welding Engineering",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Kinematics",
+		"Biomedical Instrumentation",
+		"Composite Material",
+		"Polymer Technology",
+		"3D Motion Analysis"
+	],
+	"prof_name": "Stephan Odenwald",
+	"professorship": "Sports Equipment & Technology",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Thermoplastic",
+		"Laser Melting",
+		"Complex Continuous Fiber",
+		"Polymer Technology",
+		"3D Motion Analysis"
+	],
+	"prof_name": "Lothar Kroll",
+	"professorship": "Lightweight Structures / Polymer Technology",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Thermodynamics",
+		"Fluid Properties",
+		"Experimental Methods",
+		"Natural Gas"
+	],
+	"prof_name": "Markus Richter",
+	"professorship": "Technical Thermodynamics",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Kitesurf Hydrofoils",
+		"Industrial metamaterial",
+		"Stop band material",
+		"Carbon Fiber Placement"
+	],
+	"prof_name": "Holger Cebulla",
+	"professorship": "Textile Technologies",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Incremental Sheet Metal Forming"
+	],
+	"prof_name": "Verena Kräusel",
+	"professorship": "Forming and Joining",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Composites",
+		"VHCF",
+		"Brazing",
+		"Friction Stir Welding"
+	],
+	"prof_name": "Guntram Wagner",
+	"professorship": "Composites and Material Compounds",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Mechanical Engineering",
+		"Finite Element Method",
+		"Numerics",
+		"Aluminium",
+		"Magnesium"
+	],
+	"prof_name": "Birgit Awiszus",
+	"professorship": "Virtual Production Engineering",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Material Characterization",
+		"Mechanical Properties",
+		"Microstructure",
+		"Materials Engineering",
+		"Materials Chemistry"
+	],
+	"prof_name": "Thomas Lampke",
+	"professorship": "Materials and Surface Engineering",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Material Characterization",
+		"Mechanical Properties",
+		"Microstructure",
+		"Microstructure",
+		"Materials Testing"
+	],
+	"prof_name": "Martin Wagner",
+	"professorship": "Materials Engineering",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Material Characterization",
+		"Polymers",
+		"Polymeric Materials",
+		"Polymerization",
+		"Polymer Science"
+	],
+	"prof_name": "Isabelle Roth-Panke",
+	"professorship": "High-Performance Fibers and Processing",
+	"publications":[]
+},
+{
+	"faculty": "Mechanical Engineering",
+	"interests": [
+		"Material Characterization",
+		"Nanomaterials",
+		"Material Processing",
+		"Microstructure",
+		"Mechanical Testing"
+	],
+	"prof_name": "Daisy Nestler",
+	"professorship": "Textile Plastic Composites and Hybrid Compounds",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Omnidirectional Distortion",
+		"Deep Transfer Learning",
+		"Semi Supervised Learning",
+		"Dynamic Time warping"
+	],
+	"prof_name": "Gangolf Hirtz",
+	"professorship": "Digital Signal Processing and Circuit Technology",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Electrical Machine Design",
+		"Reduction of Losses",
+		"Magnetic Bearings",
+		"Electric Vehicle Drives"
+	],
+	"prof_name": "Ralf Werner",
+	"professorship": "Electrical Energy Conversion Systems and Drives",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Intelligent Systems",
+		"Miniaturized Systems",
+		"Micro-nano-Integration",
+		"Electro Mechanical Transducer"
+	],
+	"prof_name": "John Thomas Horstmann",
+	"professorship": "Electronic Components",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Analysis of Networks and Equipments",
+		"Decentralized Energy Systems",
+		"Network Conversion Strategies"
+	],
+	"prof_name": "Wolfgang Schufft",
+	"professorship": "Energy and high voltage technology",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"EM-Wave Propagation",
+		"Remote Sensing",
+		"SAR systems",
+		"RF Propagation",
+		"Antenna Engineering",
+		"Electromagnetics"
+	],
+	"prof_name": "Madhukar Chandra",
+	"professorship": "Microwave Engineering and Electromagnetic Theory",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Optimization",
+		"Network Architecture",
+		"Routing",
+		"QoS",
+		"Network Engineering"
+	],
+	"prof_name": "Thomas Bauschert",
+	"professorship": "Communication Networks",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Photovoltaics",
+		"Semiconductor device physics",
+		"Microelectronics",
+		"Electrical Characterization",
+		"Semiconductor Devices"
+	],
+	"prof_name": "Thomas Basler",
+	"professorship": "Power Electronics",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Nanoscience",
+		"Microrobotics",
+		"Nanophotonics",
+		"Flexible Electrons",
+		"Lab on a chip"
+	],
+	"prof_name": "Oliver G Schmidt",
+	"professorship": "Materials for Nanoelectronics",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Material Characterization",
+		"Nanomaterials",
+		"Nanoparticle Synthesis",
+		"Polymerization",
+		"Energy Storage",
+		"Polymer Chemistry"
+	],
+	"prof_name": "Olfa Kanoun",
+	"professorship": "Electrical Measurements and Sensor Technology",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Sensor Development",
+		"Microfluidics",
+		"Microelectromechanical Systems (MEMS)",
+		"Microsystems"
+	],
+	"prof_name": "Jan Mehner",
+	"professorship": "Microsystems and Biomedical Engineering",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Cognitive Communications",
+		"Service provision",
+		"IoT",
+		"5G"
+	],
+	"prof_name": "Klaus Mößner",
+	"professorship": "Communications Engineering",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Autonomous Robots",
+		"Artificial Intelligence",
+		"Computer Vision",
+		"Machine Learning"
+	],
+	"prof_name": "Peter Protzel",
+	"professorship": "Process Automation",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Optimal Control",
+		"Control Theory",
+		"System Analysis",
+		"Sensitivity Analysis",
+		"Robust Control",
+		"Sensitivity Analysis"
+	],
+	"prof_name": "Stefan Streif",
+	"professorship": "Automatic Control and System Dynamics",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Machine Learning",
+		"Pattern Recognition",
+		"Computer Vision",
+		"Sensor Fusion",
+		"Human-Robot Interaction",
+		"Motion Planning"
+	],
+	"prof_name": "Ulrike Thomas",
+	"professorship": "Robotics and Human-Machine Interaction",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Machine Learning",
+		"Pattern Recognition",
+		"Computer Vision",
+		"Sensor Fusion",
+		"Human-Robot Interaction",
+		"Motion Planning"
+	],
+	"prof_name": "Ulrich Heinkel",
+	"professorship": "Circuit and System Design",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"MEMS",
+		"Bulk Technology",
+		"AIM Technology"
+	],
+	"prof_name": "Harald Kuhn",
+	"professorship": "Smart Systems Integration",
+	"publications":[]
+},
+{
+	"faculty": "Electrical Engineering and Information Technology",
+	"interests": [
+		"Thermal Management",
+		"Electronics Packaging",
+		"Advanced Failure Analysis",
+		"Thermo-mechanical Reliability",
+		"Process-structure-property Correlation"
+	],
+	"prof_name": "Bernhard Wunderle",
+	"professorship": "Materials and Reliability of Microsystems",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Nuclear Solid State Physics",
+		"Materials and Interfaces",
+		"Nonlinear Dynamics",
+		"Atomic Force Microscopy",
+		"Nanotomography",
+		"Polymer Materials",
+		"Thin Films",
+		"Nanobiophysics of Collagen Fibrils",
+		"Nanobiophysics of Collagen based Tissues",
+		"Nanomechanics of Semi Crystalline Polymers",
+		"Multi Sensory Augmented Reality Displays",
+		"Psychophysics of Human Multisensory Perception and Cognition"
+	],
+	"prof_name": "Robert Magerle",
+	"professorship": "Chemical Physics",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Metal/Metal Oxide Nanoparticles",
+		"Porphyrins and Phthalocyanines Conductive and Magnetic Materials",
+		"Hetero Multimetallic Transition metal Complexes",
+		"Molecular Electronics",
+		"Twin Polymerization",
+		"Synthesis",
+		"Polymers",
+		"Catalyst",
+		"Organometallics",
+		"Coordination Chemistry",
+		"Catalysis",
+		"Cross Coupling",
+		"Homogeneous Catalysis",
+		"Organometallic Chemistry",
+		"Macrocycles",
+		"Transition Metal",
+		"Coordination Complexes",
+		"Transition Metal Complexes",
+		"Amorphous Carbon",
+		"Synthetic Methods",
+		"Organic Chemistry"
+	],
+	"prof_name": "Heinrich Lang",
+	"professorship": "Inorganic Chemistry",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Material Synthesis",
+		"Heterogeneous Catalysts",
+		"Chalcogenide Nanoparticles",
+		"Thermoelectrics",
+		"Energy Storage Materials",
+		"High Throughput Technologies"
+	],
+	"prof_name": "Klaus Dieter Stöwe",
+	"professorship": "Chemical Technology",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Synthesis",
+		"Structural Characterisation",
+		"Inorganic and Organometallic Molecular Compounds",
+		"Nanoscaled Metal Oxido Cluster and Metal Oxide Nanoparticles",
+		"Organic and Inorganic Hybrid­ Materials",
+		"Supramolecular Coordination Compounds",
+		"Heterogeneous Photocatalysis",
+		"Porosity of Metal Oxides",
+		"Energy Storage",
+		"Energy Transformation",
+		"Properties of Hybrid Materials",
+		"Main Group Metal Chemistry",
+		"Materials Chemistry",
+		"Photocatalysis"
+	],
+	"prof_name": "Michael Mehring",
+	"professorship": "Chemical Coordination",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Chemical Kinetics",
+		"Inorganic Chemistry",
+		"Materials Chemistry",
+		"Heterogeneous Catalysis",
+		"Intermetallic compounds",
+		"Catalyst Characterization",
+		"Catalyst",
+		"Catalyst Synthesis",
+		"Catalysis",
+		"Single Crystal",
+		"Hydrogenation",
+		"Catalytic Hydrogenation",
+		"Alternative Energy",
+		"Alternative Energy Sources",
+		"Alternative and Novel Energy Sources",
+		"energiewende",
+		"Energy Turnaround"
+	],
+	"prof_name": "Marc Armbrüster",
+	"professorship": "Materials for Innovative Energy Concepts",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Investigations of reaction mechanisms",
+		"Short lived intermediates",
+		"Synthesis of heterocycles",
+		"Triazoles",
+		"Thiazoles",
+		"Functionalized allenes",
+		"Small ring compounds",
+		"Azirines",
+		"Diazirines",
+		"Organic azides"
+	],
+	"prof_name": "Klaus Banert",
+	"professorship": "Organic Chemistry",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Thermodynamics",
+		"Kinetics",
+		"Interfacial Chemistry",
+		"Colloids",
+		"Surface and colloid analysis",
+		"Polymers",
+		"Thin Film Deposition",
+		"Water Purifications Technologies",
+		"Surface Science",
+		"Conducting Polymers",
+		"Membranes",
+		"Membrane Technology",
+		"Filtration",
+		"Membrane Separation",
+		"Membrane Filtration",
+		"Atomic Layer Deposition",
+		"Polymer Brushes"
+	],
+	"prof_name": "Werner Goedel",
+	"professorship": "Physical Chemistry",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Conjugated Polymers",
+		"Materials for Batteries and Supercapacitors",
+		"Polymers for Fuel Cell Membranes",
+		"Mechanochromic Polymers",
+		"polycondcensation"
+	],
+	"prof_name": "Michael Sommer",
+	"professorship": "Polymer Chemistry",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Challenges for Future Energy Concepts",
+		"Chemical Energy Conversion"
+	],
+	"prof_name": "Alexander A. Auer",
+	"professorship": "Computer Supported Quantum Chemistry",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Supramolecular Synthesis and Self Assembly",
+		"Molecular Recognition",
+		"Fluorescent Chemosensors",
+		"Molecular Switches and Devices",
+		"Functional Materials"
+	],
+	"prof_name": "Evgeny Kataev",
+	"professorship": "Junior researcher group of Supramolecular Chemistry",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Materials",
+		"Adsorption",
+		"Density Functional Theory",
+		"Spectroscopy",
+		"Nanotechnology",
+		"Electronic Structure",
+		"Condensed Matter Physics",
+		"Solid State Physics",
+		"Physical Chemistry",
+		"Graphene",
+		"Annealing",
+		"Atoms",
+		"XPS",
+		"Condensed Matter",
+		"Surface Chemistry",
+		"Epitaxy",
+		"Electron",
+		"Dispersion",
+		"Scanning Tunneling Microscopy",
+		"Photoelectron Spectroscopy",
+		"Topological Insulators",
+		"Electron Transport",
+		"UPS",
+		"Nano Research",
+		"LEED",
+		"Graphene Growth",
+		"Atomic",
+		"Surfaces",
+		"Band Gap"
+	],
+	"prof_name": "Christoph Tegenkamp",
+	"professorship": "Solid Surfaces Analysis",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Organic Semiconductors",
+		"Inorganic Semiconductors",
+		"Photovoltaics",
+		"Disordered Matter",
+		"Organic Solar Cells",
+		"Condensed Matter Physics",
+		"Material Characterization",
+		"Thin Films and Nanotechnology",
+		"Energy",
+		"Photonics",
+		"Energy Conversion",
+		"Photovoltaics",
+		"Thin Films",
+		"Solar Cells",
+		"Solar Energy Materials",
+		"Photophysics",
+		"Physics",
+		"Organic Photovoltaics",
+		"Absorption Spectroscopy",
+		"Photonics and Opticals Communications",
+		"X Ray Scattering",
+		"Electron Spin Resonance",
+		"Organic Solar Cells",
+		"Organic Semiconductors",
+		"Bulk Heterojunction",
+		"PLS",
+		"Heterojunction Solar Cells",
+		"Polymer Soalr Cells",
+		"Charge Transport"
+	],
+	"prof_name": "Carsten Deibel",
+	"professorship": "Optics and Photonics of Condensed Matter, in particular Sensor Systems and Analytics",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Materials Science",
+		"Solid State Physics",
+		"Experimental Physics",
+		"Materials",
+		"Material Characterization",
+		"Nanomaterials",
+		"Thin FIlms and Nanotechnology",
+		"Thin Film Deposition",
+		"Materials Science",
+		"Electronic Structure",
+		"Surface Characterization",
+		"Surface Science",
+		"Graphene",
+		"Surface Analysis",
+		"XPS",
+		"Vacuum Technology",
+		"Graphite",
+		"UHV",
+		"Graphene Electronics",
+		"Photoelectron Spectroscopy",
+		"Surface Physics",
+		"Graphene Sheets",
+		"UPS",
+		"Ultra High Vacuum",
+		"AES",
+		"LEED",
+		"Core Level Photoemission",
+		"Graphene Growth",
+		"Electron Spectroscopy"
+	],
+	"prof_name": "Thomas Seyller",
+	"professorship": "Technical Physics",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Experimental Physics",
+		"Skills and expertise",
+		"Material Characterization",
+		"Materials",
+		"Optics and Photonics",
+		"Optoelectronics",
+		"Photonics",
+		"Optics",
+		"Semiconductor Device Physics",
+		"Laser",
+		"Optical Physics",
+		"Solid state Physics",
+		"Semiconductor",
+		"Experimental Physics",
+		"Applied Physics",
+		"Solar Cells",
+		"Waveguides",
+		"GaN",
+		"LED",
+		"Light Emitting Diode",
+		"LEDs",
+		"Laser Diodes",
+		"Semiconductor Laser",
+		"InGaN"
+	],
+	"prof_name": "Ulrich Theodor Schwarz",
+	"professorship": "Experimental Sensor Science",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Material Characterization",
+		"Materials",
+		"Nanomaterials",
+		"Thin Films and Nanotechnology",
+		"Thin Films Deposition",
+		"Optoelectronics",
+		"Optics",
+		"Composites",
+		"Thin Films",
+		"Semiconductor Device Physics",
+		"Spectroscopy",
+		"Laser",
+		"Thin Films Technology",
+		"Surface Characterization",
+		"Nanoelectronics",
+		"Solid State Physics",
+		"Physical Chemistry",
+		"Semiconductor",
+		"Carbon Nanotubes",
+		"Experimental Physics",
+		"Electrical Characterization",
+		"Surface Science",
+		"Solar Cells",
+		"Sputtering",
+		"Semiconductor Nanostructure",
+		"Atomic Force Microscopy",
+		"Nanostructures",
+		"Nanocrystals",
+		"Raman Spectroscopy",
+		"Spectra",
+		"Annealing",
+		"Device Physics",
+		"Quantum Dots",
+		"Conducting Polymers",
+		"Silicon",
+		"GaN",
+		"Infrared Spectroscopy",
+		"Raman Scattering",
+		"Organic Electronics",
+		"Organic Photovoltaics",
+		"Epitaxy",
+		"Infrared",
+		"GaAs",
+		"Molecular Beam Epitaxy",
+		"Organic Semiconductors",
+		"Lattice Dynamics",
+		"Spectroscopic Ellipsometry",
+		"Surface Enhanced Raman ",
+		"Molecular Electronics",
+		"MOCVD",
+		"Ellipsometry",
+		"Interface Design",
+		"Epitaxial growth",
+		"Transition Metal Oxides",
+		"NEXAFS",
+		"Micro Raman",
+		"DLTS",
+		"Organisations, Institutes, Research Groups",
+		"Tip Enhanced Raman Spectroscopy",
+		"TERS",
+		"Perylene"
+	],
+	"prof_name": "Dietrich R. T. Zahn",
+	"professorship": "Semiconductor Physics",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Magnetic Domain Formation",
+		"Magnetic Functional Materials",
+		"Magnetic Recording Media",
+		"Magnetic Thin Film Systems",
+		"Surface Spin Flop",
+		"Ion Beam Irradiation"
+	],
+	"prof_name": "Olav Hellwig",
+	"professorship": "Functional Magnetic Materials",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Neuroscience",
+		"Psychophysics",
+		"Cognitive Psychology",
+		"Real world",
+		"Natural scenes"
+	],
+	"prof_name": "Wolfgang Einhäuser Treyer",
+	"professorship": "Physics of Cognitive Processes",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"High Perfomance Computing on GPUs",
+		"Spin Glasses and Random Field Systems with Continous Spins",
+		"Random Surfaces and Networks",
+		"Optimization and Simulation Techniques for Complex Systems",
+		"Statistical Mechanics of Social Systems"
+	],
+	"prof_name": "Martin Weigel",
+	"professorship": "Simulation naturwissenschaftlicher Prozesse",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Teaching and Learning",
+		"Learning",
+		"Cognitive Neuroscience",
+		"Memory",
+		"Cognitive Psychology",
+		"Sleep, Memory Learning",
+		"Acoustics",
+		"Experimental Psychology",
+		"Sound",
+		"Cognition",
+		"Biological Psychology",
+		"Auditory Perception",
+		"Auditory Processing",
+		"Auditory System",
+		"Attention",
+		"Cognitive Behavioral"
+	],
+	"prof_name": "Alexandra Bendixen",
+	"professorship": "Structure and Function of Cognitive Systems",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Solid State Physics",
+		"Optics",
+		"Optical Engineering"
+	],
+	"prof_name": "Angela Thränhardt",
+	"professorship": "Theoretical Physics Simulation of New Materials",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Mesoskopic Physics of Electronic and Photonic Systems",
+		"Complex Dynamics in Mesoskopic Systems",
+		"Coupled and Driven Complex Mesoscopic systems",
+		"Optical Microcavities",
+		"Graphene Billiards",
+		"Fundamental Mesoscopic Effects"
+	],
+	"prof_name": "Martina Hentschel",
+	"professorship": "Theoretical Physics of Complex Dynamic Systems",
+	"publications":[]
+},
+{
+	"faculty": "Natural Sciences",
+	"interests": [
+		"Functional Oxides",
+		"Molecular Electronics",
+		"Self assembly",
+		"Materials",
+		"Nanostructured Materials",
+		"Nanoscience",
+		"Density Functional Theory",
+		"Computational Chemistry",
+		"Electronic Structure",
+		"Nanoelectronics",
+		"Computational Materials Science",
+		"Semiconductor Nanostructure",
+		"Nanostructures",
+		"Nanowires",
+		"Material Modeling",
+		"Computational Nanotechnology",
+		"Molecular Electronics"
+	],
+	"prof_name": "Sibylle Gemming",
+	"professorship": "Theoretical physics of quantum mechanical processes and systems",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Accounting",
+		"Basic Cases of Taxation",
+		"Case Studies",
+		"Colloquium for Doctoral Students",
+		"Business Taxation",
+		"Income Tax",
+		"Corporate Tax and Business Tax",
+		"Tax Balance Sheet and Investory of Assets",
+		"Tax Management"
+	],
+	"prof_name": "Silke Hüsing",
+	"professorship": "Business Taxation and Auditing",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Theoretical and Empirical Macroeconomics",
+		"Economic Policy",
+		"Empirics and Policy Implications of Growth and Structural Change",
+		"Employment Theory and Policy",
+		"Money, Credit and Monetary Policy",
+		"Income Distribution and Redistribution",
+		"Empirics and Policy Implications of 'Baumol's disease'",
+		"Health Expenditures and Health Policy",
+		"International Business Cycle and Stabilization Policy",
+		"Principle of Effective Demand",
+		"Political Economy of Statistical Measurement",
+		"Swiss and German Economies: Analysis and Policy Advice"
+	],
+	"prof_name": "Jochen Hartwig",
+	"professorship": "Economic Policy",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Behavioural Economics",
+		"Applied Psychology",
+		"Behavioural Science",
+		"Experimental Psychology",
+		"Strategic Marketing",
+		"Branding",
+		"Multivariate Statistics",
+		"Multivariate Data Analysis",
+		"Marketing",
+		"Consumer Psychology",
+		"Services Marketing",
+		"Sensory Analysis",
+		"Consumer Behavior",
+		"Structural Equation Modeling",
+		"Eye Tracking",
+		"Marketing Research",
+		"Consumer Research",
+		"Partial Least Squares",
+		"Partial Least Squares Regression",
+		"Leadership Skills",
+		"Conjoint Analysis",
+		"Mixed Effects Models",
+		"Neuromarketing",
+		"Discrete Choice Experiments",
+		"Adaptive Conjoint Analysis"
+	],
+	"prof_name": "Marcel Lichters",
+	"professorship": "Marketing and Commercial Management",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Theory of Value, Price and Employment",
+		"Analysis of Market Processes",
+		"Microeconomic Foundations",
+		"Economic Laws of Motion in a Modern Society"
+	],
+	"prof_name": "Torsten Heinrich",
+	"professorship": "Microeconomics",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Strategic Management",
+		"Management Accounting",
+		"Controlling",
+		"Investment Appraisal",
+		"Cost Oriented Product Design",
+		"Management and Engineering"
+	],
+	"prof_name": "Uwe Götze",
+	"professorship": "Management Accounting and Control",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Public Finance",
+		"Fiscal Federalism",
+		"Environmental Economics",
+		"Growth Theory",
+		"Mechanism Design",
+		"International Trade and the Environment",
+		"Labour Economics"
+	],
+	"prof_name": "Thomas Kuhn",
+	"professorship": "Economics IV - Public Finance",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Finance",
+		"Regional economy",
+		"Ethics and market economies"
+	],
+	"prof_name": "Friedrich Thießen",
+	"professorship": "Finance and banking",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Applied Macroeconomics",
+		"International Economics",
+		"Public Finance"
+	],
+	"prof_name": "Christian Breuer",
+	"professorship": "European Economics",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Information Technology and Politics",
+		"Political Economy",
+		"Qualitative and Multi-method Research",
+		"Social and Political Philosophy",
+		"Philosophy of Science",
+		"Ethics",
+		"Visual Sociology",
+		"Communication and Media",
+		"Qualitative Social Research",
+		"Qualitative Analysis",
+		"Creativity and Innovation",
+		"Media Studies",
+		"Content Analysis",
+		"Case Studies",
+		"New Media Technology",
+		"New Technology",
+		"Infrastructure",
+		"Social Innovation",
+		"Diffusion of Innovation",
+		"Digital Innovation"
+	],
+	"prof_name": "Julien Bucher",
+	"professorship": "Organization and International Management",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Behavioural Economics",
+		"Qualitative Social Research",
+		"Organizational Studies",
+		"Management",
+		"Environmental Sustainability",
+		"Social Sustainability",
+		"Neoliberalism",
+		"Organizations",
+		"sufficiency",
+		"Freedom in Organizations"
+	],
+	"prof_name": "Christian M. Huber",
+	"professorship": "Organization and International Management",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Macroeconomic Dynamics",
+		"Economic Behavior and Organization",
+		"Econometrics and Statistics",
+		"Energy Economics",
+		"Economic Inquiry",
+		"Money and Finance"
+	],
+	"prof_name": "Robert Czudaj",
+	"professorship": "Econometrics and Empirical Economics",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"HRM Research"
+	],
+	"prof_name": "Nina Katrin Hansen",
+	"professorship": "Human Resource Management and Leadership Studies",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": "",
+	"prof_name": "Matthias Wichmann",
+	"professorship": "Production and Industrial Management",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Strategic Environmental and Sustainability Management",
+		"Concepts of Sustainability-Oriented Innovations and Change",
+		"Inter- and Transdisciplinary Sustainability Research"
+	],
+	"prof_name": "Marlen Gabriele Arnold",
+	"professorship": "Corporate Environmental Management and Sustainability",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Business Administration",
+		"Economic History",
+		"Entrepreneurial Economics",
+		"Computer Science",
+		"Economics",
+		"Management",
+		"Business",
+		"Strategic Management",
+		"Art",
+		"Information and Communication Technology",
+		"Entrepreneurship",
+		"Business Development",
+		"Strategic Planning",
+		"Innovation",
+		"Information Technology",
+		"Project Management",
+		"Business Analysis",
+		"Business Management",
+		"Information System Management",
+		"Business Model Innovation",
+		"SMEs",
+		"Technology and Innovation",
+		"Higher Education",
+		"Innovation Management",
+		"Innovation Studies",
+		"Research and Development",
+		"New Product Development",
+		"Strategy",
+		"Open Innovation",
+		"Telecommunications Engineering",
+		"Medical Informatics",
+		"Communication Engineering",
+		"Markets",
+		"Service Innovation",
+		"Telecommunications",
+		"Business Models",
+		"Technology Development",
+		"Management Information Systems",
+		"Innovation Process",
+		"WLAN",
+		"NPD",
+		"Data Communications",
+		"Technology Strategy",
+		"Service",
+		"IDEA",
+		"Disruptive Technologies",
+		"Innovation Management"
+	],
+	"prof_name": "Stefan Hüsig",
+	"professorship": "Innovation Research and Technology Management",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Objectives and Effectiveness of Financial Reporting",
+		"Financial Reporting and Capital Markets",
+		"Accounting Theory",
+		"Judgment and Decision Making in Accounting",
+		"Earnings Management",
+		"Quantitative and Qualitative Financial Statement Analysis",
+		"Valuation",
+		"Independence of Auditor",
+		"Legal Liability",
+		"Auditing Process",
+		"Fraud",
+		"Reconstruction of Companies",
+		"Reorganization of Companies"
+	],
+	"prof_name": "Michael Hinz",
+	"professorship": "International Accounting and Auditing",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Information Systems",
+		"Strategic Management",
+		"Information System Management",
+		"Information Management",
+		"Innovation Management",
+		"Information Technology Management",
+		"Business Intelligence",
+		"Business Analytics",
+		"Big Data",
+		"Open Innovation",
+		"Big Data Analysis",
+		"Online Communities",
+		"Management Information Systems",
+		"Open Data"
+	],
+	"prof_name": "Barbara Dinter",
+	"professorship": "Information Systems 1",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Customer Relationship Management",
+		"Value Chain Management ",
+		"Business Intelligence ",
+		"Analytics"
+	],
+	"prof_name": "Peter Gluchowski",
+	"professorship": "Information Systems 2",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Internal Market Law",
+		"Public Competition Law",
+		"Public Consumer Protection Law",
+		"Public Media Law",
+		"Right of Demerit Goods",
+		"Law of Spatial Economics"
+	],
+	"prof_name": "Stefan Korte",
+	"professorship": "Public Law & Public Business Law",
+	"publications":[]
+},
+{
+	"faculty": "Economics and Business Administration",
+	"interests": [
+		"Legal Fundaments",
+		"Technology Law",
+		"Innovation Law​​"
+	],
+	"prof_name": "Dagmar Gesmann-Nuissl",
+	"professorship": "Private Law and Intellectual Property Law",
+	"publications":[]
+}
+]

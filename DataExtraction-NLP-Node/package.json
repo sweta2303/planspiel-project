@@ -1,0 +1,36 @@
+{
+  "name": "rim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jeevs33@bitbucket.org/jeevs33/rim.git"
+  },
+  "keywords": [
+    "rim"
+  ],
+  "author": "Jeevan",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/jeevs33/rim#readme",
+  "dependencies": {
+    "@agtabesh/keyword-extractor": "^1.1.1",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ibm-watson": "^6.0.0",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "pg": "^8.5.1",
+    "request": "^2.88.2",
+    "swagger-ui-express": "^4.1.5"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}

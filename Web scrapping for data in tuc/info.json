@@ -1,0 +1,67 @@
+[
+    {
+        "Branch": "Professorship of Operating Systems",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Matthias Werner"
+    },
+    {
+        "Branch": "Professorship of Data Management Systems",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "N.\u2009N."
+    },
+    {
+        "Branch": "Professorship of Computer Graphics and Visualization",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Guido Brunnett"
+    },
+    {
+        "Branch": "Professorship of Artificial Intelligence",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Fred Hamker"
+    },
+    {
+        "Branch": "Professorship of Media Informatics",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Maximilian Eibl"
+    },
+    {
+        "Branch": "Professorship of Practical Computer Science",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Gudula R\u00fcnger"
+    },
+    {
+        "Branch": "Professorship of Computer Architectures and Systems",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Alejandro Masrur"
+    },
+    {
+        "Branch": "Professorship of Software Engineering",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Janet Siegmund"
+    },
+    {
+        "Branch": "Professorship of Computer Engineering",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Wolfram Hardt"
+    },
+    {
+        "Branch": "Professorship of Theoretical Computer Science",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Andreas Goerdt"
+    },
+    {
+        "Branch": "Professorship of Theoretical Computer Science/Information Security",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Hanno Lefmann"
+    },
+    {
+        "Branch": "Professorship of Distributed and Self-organizing Systems",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Univ.-Prof. Dr. Martin Gaedke"
+    },
+    {
+        "Branch": "Junior Professorship of Media Computing",
+        "Faculties": "\nFaculty of Computer Science\n",
+        "name": "Jun.-Prof. Dr. Danny Kowerko"
+    }
+]
